@@ -58,7 +58,7 @@
 Στον [ιστότοπο της Python](https://www.python.org), στο σύνδεσμο
 downloads. Εναλλακτικά, μπορεί να βολεύει (ειδικά τους χρήστες
 MS-Windows) η διανομή
-[Anaconda](https://www.anaconda.com/distribution/) της Python
+[Anaconda](https://www.anaconda.com/distribution/) της Python.
 
 ## <a name="installation-attention"></a>Πρέπει να προσέξω κάτι στην εγκατάσταση;
 
