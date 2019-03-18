@@ -183,7 +183,9 @@ Windows](https://git-scm.com/download/win), τότε θα έχετε στη δι
 σας το Git Shell, το οποίο σας δίνει γραμμή εντολών
 [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) η οποία
 περιέχει τα βασικά εργαλεία του Linux και μπορείτε να εργαστείτε πολύ
-αποδοτικότερα από τη γραμμή εντολών των MS-Windows.
+αποδοτικότερα από τη γραμμή εντολών των MS-Windows. Μια άλλη λύση
+είναι να εγκαταστήσετε στον υπολογιστή σας το [Windows Subsystem for
+Linux](https://docs.microsoft.com/en-us/windows/wsl/about).
 
 Σε λειτουργικό σύστημα Mac OS τρέχουμε το πρόγραμμα Terminal, ή
 εναλλακτικά το [iTerm2](https://www.iterm2.com/).
@@ -274,9 +276,9 @@ GitHub είναι μία εταιρεία η οποία παρέχει τέτο�
    είναι MS-Windows, μπορείτε να εγκαταστήσετε το [Git for
    Windows](https://git-scm.com/download/win), βλ. και
    [παραπάνω](#command-line-launch). Εναλλακτικά, μπορείτε να
-   εγκαταστήσετε στον υπολογιστή σας το Windows Subsystem for Linux,
-   βλ. οδηγίες
-   [εδώ](https://docs.microsoft.com/en-us/windows/wsl/about).
+   εγκαταστήσετε στον υπολογιστή σας το [Windows Subsystem for
+   Linux](https://docs.microsoft.com/en-us/windows/wsl/about), όπως
+   πάλι [προείπαμε](#command-line-launch).
    
 2. Αν το πρόγραμμά σας ονομάζεται `my_program.py`, το τρέχετε ως εξής
    μέσα από ένα Bash shell (π.χ. το Git Bash, θα πρέπει να έχετε
