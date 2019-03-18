@@ -86,7 +86,7 @@ MS-Windows) η διανομή
 ## <a name="program-editing"></a>Σε τι θα γράψω το πρόγραμμά μου;
 
 Το πρόγραμμα μπορείτε να το γράψετε σε έναν επιμελητή κειμένου
-(editor). Οι τέσσερεις προτεινόμενοι είναι:
+(editor). Οι πέντε προτεινόμενοι είναι:
 
 1. [Atom](https://atom.io/)
 2. [Sublime Text](https://www.sublimetext.com/)
