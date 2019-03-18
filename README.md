@@ -180,9 +180,10 @@ python my_program.py
 
 Αν εγκαταστήσετε το [Git for
 Windows](https://git-scm.com/download/win), τότε θα έχετε στη διάθεσή
-σας το Git Shell, το Git Shell, το οποίο σας δίνει γραμμή εντολών η
-οποία περιέχει τα βασικά εργαλεία του Linux και μπορείτε να εργαστείτε
-πολύ αποδοτικότερα από τη γραμμή εντολών των MS-Windows.
+σας το Git Shell, το οποίο σας δίνει γραμμή εντολών
+[Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) η οποία
+περιέχει τα βασικά εργαλεία του Linux και μπορείτε να εργαστείτε πολύ
+αποδοτικότερα από τη γραμμή εντολών των MS-Windows.
 
 Σε λειτουργικό σύστημα Mac OS τρέχουμε το πρόγραμμα Terminal, ή
 εναλλακτικά το [iTerm2](https://www.iterm2.com/).
